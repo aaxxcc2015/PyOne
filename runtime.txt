@@ -1,0 +1,3 @@
+#runtime.txt 用于指定i bm app的python版本 复制一下内容指定版本为3.6.4
+
+python-3.6.4
