@@ -1,0 +1,12 @@
+#config.json配置文件，内容如下
+#refreshtoken就是刚刚访问网页获取到的全部内容，复制进去refresh_seconds是刷新库文件的时间
+{
+"token": "<refresh_token>",
+"location_path": "/",
+"start_directory": "/",
+"threads": 3,
+"diff_seconds": 480,
+"refresh_seconds": 720,
+"metadata_cached_seconds": 768,
+"structure_cached_seconds": 840
+}
